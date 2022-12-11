@@ -12,6 +12,10 @@
                 "name": "pypi",
                 "url": "https://pypi.org/simple",
                 "verify_ssl": true
+            },
+            {
+                "name":"libpq-dev",
+                "url":"https://pypi.io/packages/source/l/libpq-dev/9.0.0.tar.gz"
             }
         ]
     },
